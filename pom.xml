@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.insper</groupId>
-	<artifactId>loja</artifactId>
+	<artifactId>novocamp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Loja</name>
 	<description>Aplicacao da loja</description>
